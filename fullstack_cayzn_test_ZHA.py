@@ -1,19 +1,3 @@
-"""
-    Coding test: Bookings report for a transportation operator
-
-    Our revenue management solution CAYZN extracts from an inventory system the transport plan of an operator (trains,
-    flights or buses with their itineraries, stops and timetable) and allows our users to analyze sales, forecast the
-    demand and optimize their pricing.
-
-    In this project you will manipulate related concepts to build a simple report. We will assess your ability to read
-    existing code and to understand the data model in order to develop new features. Two items are essential: the final
-    result, and the quality of your code.
-
-    Questions and example data are at the bottom of the script. Do not hesitate to modify existing code if needed.
-
-    Good luck!
-"""
-
 import datetime
 from typing import List
 
@@ -378,5 +362,3 @@ print("Leg 2 passenger headcount success")
 # assert forecast[6] == [-1, 21, 770.0]
 # assert forecast[7] == [0, 21, 770.0]
 
-
-#https://www.programiz.com/python-programming/online-compiler/
